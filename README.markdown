@@ -103,4 +103,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **pyttsx3**: For offline text-to-speech capabilities.
 
 ## Contact
-For questions or feedback, please open an issue on GitHub or contact [your-email@example.com].
+For questions or feedback, please open an issue on GitHub or contact manikumar98780@gmail.com.
