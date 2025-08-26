@@ -7,7 +7,7 @@ import speech_recognition as sr
 
 # Configuration
 GROQ_API_KEY = "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"
-USER_NAME = "Amar"
+USER_NAME = "Mani"
 
 # Initialize Text-to-Speech Engine
 engine = pyttsx3.init()
