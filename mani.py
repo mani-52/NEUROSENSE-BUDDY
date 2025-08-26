@@ -4,7 +4,6 @@ from deepface import DeepFace
 from groq import Groq
 import pyttsx3
 import speech_recognition as sr
-
 # Configuration
 GROQ_API_KEY = "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"
 USER_NAME = "Mani"
